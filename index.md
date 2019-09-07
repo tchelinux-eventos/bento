@@ -28,9 +28,75 @@ Os alimentos são recebidos no momento do credenciamento.
 | **13:30** <td colspan=1><center>[**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |
 | **14:20** <td colspan=1><center>[**Porque você deve aprender Rust**](#Porque_você_deve_aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
 | **15:10** <td colspan=1><center>**Coffee-Break**</center> |
-| **15:40** <td colspan=1><center>[**Vamos matar a hidra da programação**](#Vamos matar a hidra da programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
+| **15:40** <td colspan=1><center>[**Vamos matar a Hidra da programação**](#Vamos_matar_a_Hidra_da_programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
 | **16:30** <td colspan=1><center>[**Porque Flutter?**](#Porque_Flutter?) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |
 | **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
+
+## Palestras
+
+### Ferramentas Open Source para Ethical Hacking
+
+Palestra sobre Ethical Hacking e as principais ferramentas Open Source disponíveis.
+
+### Mateus Buogo
+
+[**Mateus Buogo**](https://www.linkedin.com/in/mateus-buogo-b0084917/) é Graduado em Redes de Computadores pelo Centro Universitário Faculdade de Tecnologia (Caxias do Sul, 2011) e especialização em MBA Administração de TI pela Universidade do Vale do Rio dos Sinos (São Leopoldo, 2013). Atualmente é Professor do UNIFTEC e Analista de Segurança. Pentester Profissional Certificado DCPT (Desec Certified Penetration Tester). Experiência na área de Segurança da Informação e Infraestrutura de Rede.
+
+### Gestão de Redes com SNMP
+
+Gerenciar ativos de rede pode se tornar complicado à medida que a rede cresce. O Simple Network Management Protocol (SNMP) facilita esse trabalho. Vamos conhecer o SNMP e entender como ele funciona, para ganhar tempo na gestão e prevenir problemas.
+
+### Eduardo Silveira
+
+[**Eduardo Silveira**](http://epsilveira.github.io/) é Bacharel em Sistemas de Informação pela Universidade de Caxias do Sul, trabalha a 12 anos com servidores GNU/Linux, principalmente com gestão de Internet. Admirador do software livre, foi moderador do Viva o Linux durante quase 7 anos, entre 2009 e 2015. Também é podcaster e idealizador do site e podcast [PADD](http://peloamordedeus.org.br).
+
+### A importância da arquitetura de infraestrutura
+
+Explanação sobre a importância da arquitetura de infraestrutura em ambientes corporativos, criando ambientes seguros, escaláveis e tolerantes a falhas. Abordaremos todas as camadas da infraestrutura, desde a rede, segurança, servidores, armazenamento até as camadas de aplicação e usuários. 
+
+### Marcelo Veriato
+
+[**Marcelo Veriato**](https://www.linkedin.com/in/marcelo-veriato-lima-88086582) é CTO da empresa Adentro, trabalha a bons anos com tecnologias de código aberto e infraestruturas complexas. Responsável pela implementação de diversas estruturas de cloud pelo Brasil e exterior. 
+
+### Principais motivos pelos quais você precisa ter um backup do seu ambiente
+
+Nesta palestra vou apontar os 2 principais motivos pelo qual você precisa ter uma cópia de segurança dos seus dados, as ferramentas de mercado que podem te ajudar nesta estratégia e algumas dicas.
+
+### Bruna Martins Grellt
+
+[**Bruna Martins Grellt**](https://www.linkedin.com/in/brunagrellt/) é Customer Success na Adentro Cloud Solutions, empresa de Data Center, na qual está auxiliando o desenvolvimento da Cultura de Sucesso do Cliente em conjunto com a reestruturação de atendimento da equipe de Suporte e Comercial.
+
+### Administrando PostgreSQL com PowerShell
+
+Nesta sessão irei apresentar os conceitos básicos do PowerShell Core e um projeto open source para módulos de administração de PostgreSQL.
+
+### Rodrigo Crespi
+
+[**Rodrigo Crespi**](http://sqlcrespi.com) é pós-graduado em Banco de Dados e História e Filosofia. Premiado como Most Valuable Professional (MVP) em Data Platform desde 2016. Certificado em administração e desenvolvimento de bancos de dados SQL Server desde 2000 (MCSE). Atualmente, ocupa a posição de Diretor de Tecnologia na CrespiDB – Soluções em Plataforma de Dados e Professor Universitário. Fundador e Leader do PASS Chapter SQL Server RS no Rio Grande do Sul – Brasil. Palestrante nacional e internacional, autor de diversos artigos em websites, revistas e blogs especializados em Engenharia de Software e Bancos de Dados. Conheça mais em [SQLCrespi.com](http://sqlcrespi.com).
+
+### Porque você deve aprender Rust
+
+Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
+
+### Julio Biason
+
+[**Julio Biason**](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust.
+
+### Vamos matar a Hidra da programação
+
+Sim quem matou a Hidra foi Hercules, a Meduza não tem 7 cabeça então o trocadilho ficaria ruim, vamos falar de como perder o medo de criar algoritmos, como usar Python, PHP, JavaScript ou qualquer outra linguagem de programação para resolver nossos problemas e como simplificar esses problemas para que não sejam mais um bicho de 7 cabeças.
+
+### Perceu Bertoletti
+
+[**Perceu Bertoletti**](perceu.github.io/me) é Desenvolvedor Web a 6 anos, trabalha com Python, PHP, HTML, CSS, JavaScript e qualquer outra coisa que for preciso. É atuante em comunidades de Caxias do Sul, entusiasta de Desenvolvimento e de Open Source
+
+### Porque Flutter?
+
+Uma pequena introdução sobre o Flutter e porque ele esta sendo adotado por algumas empresas grandes ao redor do mundo.
+
+### Vilson Dauinheimer
+
+[**Vilson Dauinheimer**](https://www.linkedin.com/in/vilsonblanco) é Co-Fundador da [Comunidade Flutterando](https://www.flutterando.com.br/) uma das maiores comunidade de Flutter do brasil. Formado em Análise e Desenvolvimento de Sistemas, sempre foi aficionado por poder tirar algo da sua mente e torna-lo palpável, começou na área Metal-Mecânica transformando barras de ferro em peças, e agora na área de Ti transformando idéias em aplicativos.
 
 ## Certificados
 
