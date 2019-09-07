@@ -14,6 +14,24 @@ Os alimentos são recebidos no momento do credenciamento.
 
 <center><a href="https://bento.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
 
+## Programação
+
+| <center> Horário </center> | <center> Auditório </center> |
+|:--------------------------:|:-----------------------:|
+| **08:30** <td colspan=1><center>**Credenciamento**</center> |
+| **09:00** <td colspan=1><center>**Abertura**<br> Auditório <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:15** <td colspan=1><center>[**Ferramentas Open Source para Ethical Hacking**](#Ferramentas_Open_Source_para_Ethical_Hacking) <br> <span class="label label-warning">Intermediário</span> <br> Mateus Buogo |
+| **10:00** <td colspan=1><center>[**Gestão de Redes com SNMP**](#Gestão_de_Redes_com_SNMP) <br> <span class="label label-warning">Principiante</span> <br> Eduardo Silveira |
+| **10:45** <td colspan=1><center>[**A importância da arquitetura de infraestrutura**](#A_importância_da_arquitetura_de_infraestrutura) <br> <span class="label label-warning">Intermediário</span> <br>  |
+| **11:30** <td colspan=1><center>[**Principais motivos pelos quais você precisa ter um backup do seu ambiente**](#Principais_motivos_pelos_quais_você_precisa_ter_um_backup_do_seu_ambiente) <br> <span class="label label-success">Principiante</span> <br> Bruna Grellt |
+| **12:00** <td colspan=1><center>**Intervalo para Almoço**</center> |
+| **13:30** <td colspan=1><center>[**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |
+| **14:20** <td colspan=1><center>[**Porque você deve aprender Rust**](#Porque_você_deve_aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **15:10** <td colspan=1><center>**Coffee-Break**</center> |
+| **15:40** <td colspan=1><center>[**Vamos matar a hidra da programação**](#Vamos matar a hidra da programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
+| **16:30** <td colspan=1><center>[**Porque Flutter?**](#Porque_Flutter?) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |
+| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
+
 ## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
