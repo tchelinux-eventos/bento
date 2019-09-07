@@ -6,7 +6,7 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universid
 
 ## Inscrições
 
-As inscrições estarão abertas a partir do dia 02 de Setembro, quando a **programação do evento** for anunciada.
+As inscrições estarão abertas a partir do dia 07 de Setembro, quando a **programação do evento** for anunciada.
 
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
