@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade de Caxias do Sul Campus Bento Gonçalves**](https://www.ucs.br/site/vestibular-complementar/bento-goncalves/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **19 de Outubro de 2019 a partir das 8:30h** na UCS em Bento.
 
-## Chamada de Trabalhos
-
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **30 de Agosto de 2019**. Os trabalhos escolhidos serão anúnciados no dia 02 de Setembro de 2019.
-
-<center><a href="https://bento.tchelinux.org/cfp/" style="color:#ff4040"><h3><b>Clique aqui e submeta sua palestra agora mesmo!</b></h3></a></center>
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia 02 de Setembro, quando a **programação do evento** for anunciada.
