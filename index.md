@@ -120,6 +120,10 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 [![UCS](images/UCS.png)](https://www.ucs.br/site/vestibular-complementar/bento-goncalves/)
 
+### Patrocínio
+
+[![Bling!](images/logo_bling.png)](https://www.bling.com.br/home)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
