@@ -27,10 +27,11 @@ Os alimentos são recebidos no momento do credenciamento.
 | **12:00** <td colspan=1><center>**Intervalo para Almoço**</center> |
 | **13:30** <td colspan=1><center>[**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |
 | **14:20** <td colspan=1><center>[**Porque você deve aprender Rust**](#Porque_você_deve_aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
-| **15:10** <td colspan=1><center>**Coffee-Break**</center> |
-| **15:40** <td colspan=1><center>[**Vamos matar a Hidra da programação**](#Vamos_matar_a_Hidra_da_programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
-| **16:30** <td colspan=1><center>[**Porque Flutter?**](#Porque_Flutter?) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |
-| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
+| **15:10** <td colspan=1><center>**Espaço Bling!** <br> <span class="label label-info">Principiante</span> <br> Equipe Bling! |
+| **15:30** <td colspan=1><center>**Coffee-Break**</center> |
+| **16:20** <td colspan=1><center>[**Vamos matar a Hidra da programação**](#Vamos_matar_a_Hidra_da_programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
+| **17:10** <td colspan=1><center>[**Porque Flutter?**](#Porque_Flutter?) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |
+| **18:00** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
 
 ## Palestras
 
