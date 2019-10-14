@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade de Caxias do Sul Campus Bento Gonçalves**](https://www.ucs.br/site/vestibular-complementar/bento-goncalves/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **19 de Outubro de 2019 a partir das 8:30h** na UCS em Bento.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade de Caxias do Sul Campus Bento Gonçalves**](https://www.ucs.br/site/vestibular-complementar/bento-goncalves/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **19 de Outubro de 2019 a partir das 8:30h** no Auditório do Bloco J da UCS em Bento Gonçalves (Alameda João Dal Sasso, 800 - Universitário).
 
 ## Inscrições
 
@@ -16,10 +16,10 @@ Os alimentos são recebidos no momento do credenciamento.
 
 ## Programação
 
-| <center> Horário </center> | <center> Auditório </center> |
+| <center> Horário </center> | <center> Auditório Bloco J </center> |
 |:--------------------------:|:-----------------------:|
 | **08:30** <td colspan=1><center>**Credenciamento**</center> |
-| **09:00** <td colspan=1><center>**Abertura**<br> Auditório <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:00** <td colspan=1><center>**Abertura**<br> Auditório Bloco J <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
 | **09:15** <td colspan=1><center>[**Ferramentas Open Source para Ethical Hacking**](#Ferramentas_Open_Source_para_Ethical_Hacking) <br> <span class="label label-warning">Intermediário</span> <br> Mateus Buogo |
 | **10:00** <td colspan=1><center>[**Gestão de Redes com SNMP**](#Gestão_de_Redes_com_SNMP) <br> <span class="label label-warning">Principiante</span> <br> Eduardo Silveira |
 | **10:45** <td colspan=1><center>[**A importância da arquitetura de infraestrutura**](#A_importância_da_arquitetura_de_infraestrutura) <br> <span class="label label-warning">Intermediário</span> <br>  |
