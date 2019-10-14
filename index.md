@@ -25,7 +25,7 @@ Os alimentos são recebidos no momento do credenciamento.
 | **10:45** <td colspan=1><center>[**A importância da arquitetura de infraestrutura**](#A_importância_da_arquitetura_de_infraestrutura) <br> <span class="label label-warning">Intermediário</span> <br>  |
 | **11:30** <td colspan=1><center>[**Principais motivos pelos quais você precisa ter um backup do seu ambiente**](#Principais_motivos_pelos_quais_você_precisa_ter_um_backup_do_seu_ambiente) <br> <span class="label label-success">Principiante</span> <br> Bruna Grellt |
 | **12:00** <td colspan=1><center>**Intervalo para Almoço**</center> |
-| **13:30** <td colspan=1><center>[**Administrando PostgreSQL com PowerShell**](#Administrando_PostgreSQL_com_PowerShell) <br> <span class="label label-success">Principiante</span> <br> Rodrigo Crespi |
+| **13:30** <td colspan=1><center>[**Desenvolvimento web com Django sem dor de cabeça!**](#Desenvolvimento_web_com_Django_sem_dor_de_cabeça!) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |
 | **14:20** <td colspan=1><center>[**Porque você deve aprender Rust**](#Porque_você_deve_aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
 | **15:10** <td colspan=1><center>**Software Livre na Bling!** <br> <span class="label label-info">Todo o público</span> <br> Equipe Bling! |
 | **15:30** <td colspan=1><center>**Coffee-Break**</center> |
@@ -67,13 +67,17 @@ Nesta palestra vou apontar os 2 principais motivos pelo qual você precisa ter u
 
 [**Bruna Martins Grellt**](https://www.linkedin.com/in/brunagrellt/) é Customer Success na Adentro Cloud Solutions, empresa de Data Center, na qual está auxiliando o desenvolvimento da Cultura de Sucesso do Cliente em conjunto com a reestruturação de atendimento da equipe de Suporte e Comercial.
 
-### Administrando PostgreSQL com PowerShell
+### Desenvolvimento web com Django sem dor de cabeça!
 
-Nesta sessão irei apresentar os conceitos básicos do PowerShell Core e um projeto open source para módulos de administração de PostgreSQL.
+Nessa palestra será apresentado uma forma de trabalho com django sem muita dor de cabeça, desde a estruturação do projeto até seu deploy.
 
-### Rodrigo Crespi
+### Adriano Margarin
 
-[**Rodrigo Crespi**](http://sqlcrespi.com) é pós-graduado em Banco de Dados e História e Filosofia. Premiado como Most Valuable Professional (MVP) em Data Platform desde 2016. Certificado em administração e desenvolvimento de bancos de dados SQL Server desde 2000 (MCSE). Atualmente, ocupa a posição de Diretor de Tecnologia na CrespiDB – Soluções em Plataforma de Dados e Professor Universitário. Fundador e Leader do PASS Chapter SQL Server RS no Rio Grande do Sul – Brasil. Palestrante nacional e internacional, autor de diversos artigos em websites, revistas e blogs especializados em Engenharia de Software e Bancos de Dados. Conheça mais em [SQLCrespi.com](http://sqlcrespi.com).
+Empreendedor e palestrante, Adriano Margarin divide suas experiências com o intuito de contribuir para a transformação de comunidades de software livre, ideias e atualizações do mercado no cenário da tecnologia.
+
+Graduado em sistemas de informação, é desenvolvedor WEB e atua como consultor no setor. O foco reside em melhoras de desempenho, tempo de execução, expertise e conhecimento em desenvolvimento de software e suas aplicações.
+
+“Hoje, minha maior motivação vem de solucionar problemas e mostrar que não existem limites para quem realmente sonha grande. Temos nos dedos e na mente ótimas ideias para desenvolver e estamos apenas no começo de uma grande jornada chamada de tecnologia”.
 
 ### Porque você deve aprender Rust
 
