@@ -128,6 +128,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 ### Patrocínio
 
 [![Bling!](images/logo_bling.png)](https://www.bling.com.br/home)
+[![Adentro Datacenter Solutions](images/logo_adentro.png)](https://www.adentrocloud.com.br/)
 
 ### Divulgação
 
