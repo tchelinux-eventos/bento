@@ -16,13 +16,13 @@ Os alimentos são recebidos no momento do credenciamento.
 
 ## Programação
 
-| <center> Horário </center> | <center> Auditório Bloco J </center> |
+| <center> Horário </center> | <center> Auditório do Bloco J </center> |
 |:--------------------------:|:-----------------------:|
 | **08:30** <td colspan=1><center>**Credenciamento**</center> |
-| **09:00** <td colspan=1><center>**Abertura**<br> Auditório Bloco J <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:00** <td colspan=1><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
 | **09:15** <td colspan=1><center>[**Ferramentas Open Source para Ethical Hacking**](#Ferramentas_Open_Source_para_Ethical_Hacking) <br> <span class="label label-warning">Intermediário</span> <br> Mateus Buogo |
 | **10:00** <td colspan=1><center>[**Gestão de Redes com SNMP**](#Gestão_de_Redes_com_SNMP) <br> <span class="label label-warning">Principiante</span> <br> Eduardo Silveira |
-| **10:45** <td colspan=1><center>[**A importância da arquitetura de infraestrutura**](#A_importância_da_arquitetura_de_infraestrutura) <br> <span class="label label-warning">Intermediário</span> <br>  |
+| **10:45** <td colspan=1><center>[**A importância da arquitetura de infraestrutura**](#A_importância_da_arquitetura_de_infraestrutura) <br> <span class="label label-warning">Intermediário</span> <br> Marcelo Veriato |
 | **11:30** <td colspan=1><center>[**Principais motivos pelos quais você precisa ter um backup do seu ambiente**](#Principais_motivos_pelos_quais_você_precisa_ter_um_backup_do_seu_ambiente) <br> <span class="label label-success">Principiante</span> <br> Bruna Grellt |
 | **12:00** <td colspan=1><center>**Intervalo para Almoço**</center> |
 | **13:30** <td colspan=1><center>[**Desenvolvimento web com Django sem dor de cabeça!**](#Desenvolvimento_web_com_Django_sem_dor_de_cabeça!) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |
