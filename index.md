@@ -28,7 +28,8 @@ Os alimentos são recebidos no momento do credenciamento.
 | **13:30** <td colspan=1><center>[**Desenvolvimento web com Django sem dor de cabeça!**](#Desenvolvimento_web_com_Django_sem_dor_de_cabeça!) <br> <span class="label label-success">Principiante</span> <br> Adriano Margarin |
 | **14:20** <td colspan=1><center>[**Porque você deve aprender Rust**](#Porque_você_deve_aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
 | **15:10** <td colspan=1><center>**Software Livre na Bling!** <br> <span class="label label-info">Todo o público</span> <br> Equipe Bling! |
-| **15:30** <td colspan=1><center>**Coffee-Break**</center> |
+| **15:30** <td colspan=1><center>**"Orquestração de Infraestrutura usando CloudStack** <br> <span class="label label-info">Todo o público</span> <br> Equipe Adentro |
+| **15:50** <td colspan=1><center>**Coffee-Break**</center> |
 | **16:20** <td colspan=1><center>[**Vamos matar a Hidra da programação**](#Vamos_matar_a_Hidra_da_programação) <br> <span class="label label-success">Principiante</span> <br> Perceu Bertoletti |
 | **17:10** <td colspan=1><center>[**Porque Flutter?**](#Porque_Flutter?) <br> <span class="label label-success">Principiante</span> <br> Vilson Dauinheimer |
 | **18:00** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
